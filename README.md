@@ -12,6 +12,6 @@ The objective of this repository is to record and facilitate access to all the m
 
 ### How to Use
 
-1. Clone the repository: `git clone https://github.com/seu-usuario/algorithms-and-data-structures-ii-projects.git`
+1. Clone the repository: `git clone https://github.com/yasmimlps/algorithms-and-data-structures-ii-projects.git`
 2. Navigate through the folders according to the desired content.
 3. Each project contains its own README with specific instructions.
